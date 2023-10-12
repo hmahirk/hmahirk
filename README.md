@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahir</h1>
 <h3 align="center">Electrical & Electronical Engineer</h3>
+- I just created my GitHub.
 
 - 🔭 I’m currently working on **Embedded Systems**
 
