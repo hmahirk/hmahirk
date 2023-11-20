@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Embedded Systems**
 
-- 🌱 I’m currently learning **Python, Stm32**
+- 🌱 I’m currently learning **Python, Stm32, RTOS**
 
 - 📫 How to reach me **hmahirk@gmail.com**
 
